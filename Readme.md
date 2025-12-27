@@ -52,7 +52,7 @@
 
 |                          正常对话流                          |                           导出菜单                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![Chat UI](https://via.placeholder.com/400x300?text=Chat+UI+Preview) | ![Export Menu](https://via.placeholder.com/400x300?text=Export+Menu) |
+| ![Chat UI](test.png) | ![Export Menu](https://via.placeholder.com/400x300?text=Export+Menu) |
 
 ## 📝 更新日志
 
@@ -71,4 +71,5 @@
 本项目采用 [MIT License](LICENSE) 许可证。
 
 ---
+
 **Disclaimer**: This script is a third-party tool and is not affiliated with Google.
